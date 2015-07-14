@@ -1,152 +1,152 @@
 [submodule "aaa"]
 	path = aaa
-	url = ../../aaa
+	url = https://github.com/opendaylight/aaa
 	branch = master
 [submodule "bgpcep"]
 	path = bgpcep
-	url = ../../bgpcep
+	url = https://github.com/opendaylight/bgpcep
 	branch = master
 [submodule "controller"]
 	path = controller
-	url = ../../controller
+	url = https://github.com/opendaylight/controller
 	branch = master
 [submodule "dlux"]
 	path = dlux
-	url = ../../dlux
+	url = https://github.com/opendaylight/dlux
 	branch = master
 [submodule "groupbasedpolicy"]
 	path = groupbasedpolicy
-	url = ../../groupbasedpolicy
+	url = https://github.com/opendaylight/groupbasedpolicy
 	branch = master
 [submodule "integration"]
 	path = integration
-	url = ../../integration
+	url = https://github.com/opendaylight/integration
 	branch = master
 [submodule "l2switch"]
 	path = l2switch
-	url = ../../l2switch
+	url = https://github.com/opendaylight/l2switch
 	branch = master
 [submodule "lispflowmapping"]
 	path = lispflowmapping
-	url = ../../lispflowmapping
+	url = https://github.com/opendaylight/lispflowmapping
 	branch = master
 [submodule "odlparent"]
 	path = odlparent
-	url = ../../odlparent
+	url = https://github.com/opendaylight/odlparent
 	branch = master
 [submodule "openflowjava"]
 	path = openflowjava
-	url = ../../openflowjava
+	url = https://github.com/opendaylight/openflowjava
 	branch = master
 [submodule "openflowplugin"]
 	path = openflowplugin
-	url = ../../openflowplugin
+	url = https://github.com/opendaylight/openflowplugin
 	branch = master
 [submodule "ovsdb"]
 	path = ovsdb
-	url = ../../ovsdb
+	url = https://github.com/opendaylight/ovsdb
 	branch = master
 [submodule "sdninterfaceapp"]
 	path = sdninterfaceapp
-	url = ../../sdninterfaceapp
+	url = https://github.com/opendaylight/sdninterfaceapp
 	branch = master
 [submodule "sfc"]
 	path = sfc
-	url = ../../sfc
+	url = https://github.com/opendaylight/sfc
 	branch = master
 [submodule "snbi"]
 	path = snbi
-	url = ../../snbi
+	url = https://github.com/opendaylight/snbi
 	branch = master
 [submodule "snmp4sdn"]
 	path = snmp4sdn
-	url = ../../snmp4sdn
+	url = https://github.com/opendaylight/snmp4sdn
 	branch = master
 [submodule "tcpmd5"]
 	path = tcpmd5
-	url = ../../tcpmd5
+	url = https://github.com/opendaylight/tcpmd5
 	branch = master
 [submodule "ttp"]
 	path = ttp
-	url = ../../ttp
+	url = https://github.com/opendaylight/ttp
 	branch = master
 [submodule "vtn"]
 	path = vtn
-	url = ../../vtn
+	url = https://github.com/opendaylight/vtn
 	branch = master
 [submodule "yangtools"]
 	path = yangtools
-	url = ../../yangtools
+	url = https://github.com/opendaylight/yangtools
 	branch = master
 [submodule "alto"]
 	path = alto
-	url = ../../alto
+	url = https://github.com/opendaylight/alto
 	branch = master
 [submodule "capwap"]
 	path = capwap
-	url = ../../capwap
+	url = https://github.com/opendaylight/capwap
 	branch = master
 [submodule "coretutorials"]
 	path = coretutorials
-	url = ../../coretutorials
+	url = https://github.com/opendaylight/coretutorials
 	branch = master
 [submodule "didm"]
 	path = didm
-	url = ../../didm
+	url = https://github.com/opendaylight/didm
 	branch = master
 [submodule "docs"]
 	path = docs
-	url = ../../docs
+	url = https://github.com/opendaylight/docs
 	branch = master
 [submodule "iotdm"]
 	path = iotdm
-	url = ../../iotdm
+	url = https://github.com/opendaylight/iotdm
 	branch = master
 [submodule "lacp"]
 	path = lacp
-	url = ../../lacp
+	url = https://github.com/opendaylight/lacp
 	branch = master
 [submodule "nic"]
 	path = nic
-	url = ../../nic
+	url = https://github.com/opendaylight/nic
 	branch = master
 [submodule "neutron"]
 	path = neutron
-	url = ../../neutron
+	url = https://github.com/opendaylight/neutron
 	branch = master
 [submodule "packetcable"]
 	path = packetcable
-	url = ../../packetcable
+	url = https://github.com/opendaylight/packetcable
 	branch = master
 [submodule "persistence"]
 	path = persistence
-	url = ../../persistence
+	url = https://github.com/opendaylight/persistence
 	branch = master
 [submodule "reservation"]
 	path = reservation
-	url = ../../reservation
+	url = https://github.com/opendaylight/reservation
 	branch = master
 [submodule "snmp"]
 	path = snmp
-	url = ../../snmp
+	url = https://github.com/opendaylight/snmp
 	branch = master
 [submodule "sxp"]
 	path = sxp
-	url = ../../sxp
+	url = https://github.com/opendaylight/sxp
 	branch = master
 [submodule "tsdr"]
 	path = tsdr
-	url = ../../tsdr
+	url = https://github.com/opendaylight/tsdr
 	branch = master
 [submodule "topoprocessing"]
 	path = topoprocessing
-	url = ../../topoprocessing
+	url = https://github.com/opendaylight/topoprocessing
 	branch = master
 [submodule "usc"]
 	path = usc
-	url = ../../usc
+	url = https://github.com/opendaylight/usc
 	branch = master
 [submodule "vpnservice"]
 	path = vpnservice
-	url = ../../vpnservice
+	url = https://github.com/opendaylight/vpnservice
 	branch = master
