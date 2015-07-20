@@ -36,7 +36,7 @@ Makes a System Call
 def systemCallMvnEffectivePom( directoryLocation ):
 
 	# TODO : uncomment this command
-	os.system( '/usr/local/apache-maven/apache-maven-3.1.1/bin/mvn -f ' + directoryLocation + ' help:effective-pom -Doutput=epom.xml' )
+	os.system( '/opt/jenkins/tools/hudson.tasks.Maven_MavenInstallation/Maven_3.3.3/bin/mvn -gs $GSFILE -f ' + directoryLocation + ' help:effective-pom -Doutput=epom.xml' )
 	return
 
 '''
