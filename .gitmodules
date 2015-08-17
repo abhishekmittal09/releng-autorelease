@@ -1,152 +1,152 @@
 [submodule "aaa"]
 	path = aaa
-	url = ../../aaa
+	url = https://github.com/opendaylight/aaa
 	branch = stable/lithium
 [submodule "bgpcep"]
 	path = bgpcep
-	url = ../../bgpcep
+	url = https://github.com/opendaylight/bgpcep
 	branch = stable/lithium
 [submodule "controller"]
 	path = controller
-	url = ../../controller
+	url = https://github.com/opendaylight/controller
 	branch = stable/lithium
 [submodule "dlux"]
 	path = dlux
-	url = ../../dlux
+	url = https://github.com/opendaylight/dlux
 	branch = stable/lithium
 [submodule "groupbasedpolicy"]
 	path = groupbasedpolicy
-	url = ../../groupbasedpolicy
+	url = https://github.com/opendaylight/groupbasedpolicy
 	branch = stable/lithium
 [submodule "integration"]
 	path = integration
-	url = ../../integration
+	url = https://github.com/opendaylight/integration
 	branch = stable/lithium
 [submodule "l2switch"]
 	path = l2switch
-	url = ../../l2switch
+	url = https://github.com/opendaylight/l2switch
 	branch = stable/lithium
 [submodule "lispflowmapping"]
 	path = lispflowmapping
-	url = ../../lispflowmapping
+	url = https://github.com/opendaylight/lispflowmapping
 	branch = stable/lithium
 [submodule "odlparent"]
 	path = odlparent
-	url = ../../odlparent
+	url = https://github.com/opendaylight/odlparent
 	branch = stable/lithium
 [submodule "openflowjava"]
 	path = openflowjava
-	url = ../../openflowjava
+	url = https://github.com/opendaylight/openflowjava
 	branch = stable/lithium
 [submodule "openflowplugin"]
 	path = openflowplugin
-	url = ../../openflowplugin
+	url = https://github.com/opendaylight/openflowplugin
 	branch = stable/lithium
 [submodule "ovsdb"]
 	path = ovsdb
-	url = ../../ovsdb
+	url = https://github.com/opendaylight/ovsdb
 	branch = stable/lithium
 [submodule "sdninterfaceapp"]
 	path = sdninterfaceapp
-	url = ../../sdninterfaceapp
+	url = https://github.com/opendaylight/sdninterfaceapp
 	branch = stable/lithium
 [submodule "sfc"]
 	path = sfc
-	url = ../../sfc
+	url = https://github.com/opendaylight/sfc
 	branch = stable/lithium
 [submodule "snbi"]
 	path = snbi
-	url = ../../snbi
+	url = https://github.com/opendaylight/snbi
 	branch = stable/lithium
 [submodule "snmp4sdn"]
 	path = snmp4sdn
-	url = ../../snmp4sdn
+	url = https://github.com/opendaylight/snmp4sdn
 	branch = stable/lithium
 [submodule "tcpmd5"]
 	path = tcpmd5
-	url = ../../tcpmd5
+	url = https://github.com/opendaylight/tcpmd5
 	branch = stable/lithium
 [submodule "ttp"]
 	path = ttp
-	url = ../../ttp
+	url = https://github.com/opendaylight/ttp
 	branch = stable/lithium
 [submodule "vtn"]
 	path = vtn
-	url = ../../vtn
+	url = https://github.com/opendaylight/vtn
 	branch = stable/lithium
 [submodule "yangtools"]
 	path = yangtools
-	url = ../../yangtools
+	url = https://github.com/opendaylight/yangtools
 	branch = stable/lithium
 [submodule "alto"]
 	path = alto
-	url = ../../alto
+	url = https://github.com/opendaylight/alto
 	branch = stable/lithium
 [submodule "capwap"]
 	path = capwap
-	url = ../../capwap
+	url = https://github.com/opendaylight/capwap
 	branch = stable/lithium
 [submodule "coretutorials"]
 	path = coretutorials
-	url = ../../coretutorials
+	url = https://github.com/opendaylight/coretutorials
 	branch = stable/lithium
 [submodule "didm"]
 	path = didm
-	url = ../../didm
+	url = https://github.com/opendaylight/didm
 	branch = stable/lithium
 [submodule "docs"]
 	path = docs
-	url = ../../docs
+	url = https://github.com/opendaylight/docs
 	branch = stable/lithium
 [submodule "iotdm"]
 	path = iotdm
-	url = ../../iotdm
+	url = https://github.com/opendaylight/iotdm
 	branch = stable/lithium
 [submodule "lacp"]
 	path = lacp
-	url = ../../lacp
+	url = https://github.com/opendaylight/lacp
 	branch = stable/lithium
 [submodule "nic"]
 	path = nic
-	url = ../../nic
+	url = https://github.com/opendaylight/nic
 	branch = stable/lithium
 [submodule "neutron"]
 	path = neutron
-	url = ../../neutron
+	url = https://github.com/opendaylight/neutron
 	branch = stable/lithium
 [submodule "packetcable"]
 	path = packetcable
-	url = ../../packetcable
+	url = https://github.com/opendaylight/packetcable
 	branch = stable/lithium
 [submodule "persistence"]
 	path = persistence
-	url = ../../persistence
+	url = https://github.com/opendaylight/persistence
 	branch = stable/lithium
 [submodule "reservation"]
 	path = reservation
-	url = ../../reservation
+	url = https://github.com/opendaylight/reservation
 	branch = stable/lithium
 [submodule "snmp"]
 	path = snmp
-	url = ../../snmp
+	url = https://github.com/opendaylight/snmp
 	branch = stable/lithium
 [submodule "sxp"]
 	path = sxp
-	url = ../../sxp
+	url = https://github.com/opendaylight/sxp
 	branch = stable/lithium
 [submodule "tsdr"]
 	path = tsdr
-	url = ../../tsdr
+	url = https://github.com/opendaylight/tsdr
 	branch = stable/lithium
 [submodule "topoprocessing"]
 	path = topoprocessing
-	url = ../../topoprocessing
+	url = https://github.com/opendaylight/topoprocessing
 	branch = stable/lithium
 [submodule "usc"]
 	path = usc
-	url = ../../usc
+	url = https://github.com/opendaylight/usc
 	branch = stable/lithium
 [submodule "vpnservice"]
 	path = vpnservice
-	url = ../../vpnservice
+	url = https://github.com/opendaylight/vpnservice
 	branch = stable/lithium
